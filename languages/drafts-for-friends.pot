@@ -1,0 +1,218 @@
+# Copyright (C) 2010 Drafts for Friends
+# This file is distributed under the same license as the Drafts for Friends package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Drafts for Friends 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/drafts-for-friends\n"
+"POT-Creation-Date: 2011-12-29 19:42:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  drafts-for-friends.pot (Drafts for Friends 2.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: drafts-for-friends.php:225
+#: drafts-for-friends.php:462
+msgid "Drafts for Friends"
+msgstr ""
+
+#: drafts-for-friends.php:20
+msgid "share"
+msgstr ""
+
+#: drafts-for-friends.php:21
+msgid "shares"
+msgstr ""
+
+#: drafts-for-friends.php:31
+msgid " ago"
+msgstr ""
+
+#: drafts-for-friends.php:43
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: drafts-for-friends.php:44
+msgid "Extend Limit"
+msgstr ""
+
+#: drafts-for-friends.php:45
+msgid "Delete"
+msgstr ""
+
+#: drafts-for-friends.php:53
+msgid "Copied!"
+msgstr ""
+
+#: drafts-for-friends.php:62
+#: drafts-for-friends.php:125
+#: drafts-for-friends.php:502
+msgid "seconds"
+msgstr ""
+
+#: drafts-for-friends.php:125
+msgid " second"
+msgstr ""
+
+#: drafts-for-friends.php:63
+#: drafts-for-friends.php:120
+#: drafts-for-friends.php:503
+msgid "minutes"
+msgstr ""
+
+#: drafts-for-friends.php:120
+msgid "minute"
+msgstr ""
+
+#: drafts-for-friends.php:64
+#: drafts-for-friends.php:115
+#: drafts-for-friends.php:504
+msgid "hours"
+msgstr ""
+
+#: drafts-for-friends.php:115
+msgid " hour"
+msgstr ""
+
+#: drafts-for-friends.php:65
+#: drafts-for-friends.php:109
+#: drafts-for-friends.php:505
+msgid "days"
+msgstr ""
+
+#: drafts-for-friends.php:109
+msgid " day"
+msgstr ""
+
+#: drafts-for-friends.php:102
+msgid " weeks"
+msgstr ""
+
+#: drafts-for-friends.php:102
+msgid " week"
+msgstr ""
+
+#: drafts-for-friends.php:73
+msgid "Extend for"
+msgstr ""
+
+#: drafts-for-friends.php:81
+#: drafts-for-friends.php:430
+msgid "Save"
+msgstr ""
+
+#: drafts-for-friends.php:82
+msgid "Cancel"
+msgstr ""
+
+#: drafts-for-friends.php:94
+msgid "Expired"
+msgstr ""
+
+#: drafts-for-friends.php:102
+msgid " week"
+msgstr ""
+
+#: drafts-for-friends.php:103
+msgid " weeks"
+msgstr ""
+
+#: drafts-for-friends.php:133
+msgid "Post"
+msgstr ""
+
+#: drafts-for-friends.php:134
+msgid "Created"
+msgstr ""
+
+#: drafts-for-friends.php:135
+msgid "Expires"
+msgstr ""
+
+#: drafts-for-friends.php:141
+msgid "No shared drafts!"
+msgstr ""
+
+#: drafts-for-friends.php:262
+#: drafts-for-friends.php:308
+msgid "Invalid Expiration."
+msgstr ""
+
+#: drafts-for-friends.php:268
+#: drafts-for-friends.php:314
+msgid "Invalid Measurement Unit."
+msgstr ""
+
+#: drafts-for-friends.php:293
+#, php-format
+msgid "Shared draft for '%s' created."
+msgstr ""
+
+#: drafts-for-friends.php:303
+msgid "Invalid share id."
+msgstr ""
+
+#: drafts-for-friends.php:319
+msgid "Shared Draft not Found."
+msgstr ""
+
+#: drafts-for-friends.php:340
+msgid "Shared draft limit extended."
+msgstr ""
+
+#: drafts-for-friends.php:349
+msgid "There are no shared post to delete."
+msgstr ""
+
+#: drafts-for-friends.php:355
+msgid "Shared draft deleted."
+msgstr ""
+
+#: drafts-for-friends.php:366
+msgid "Your Drafts:"
+msgstr ""
+
+#: drafts-for-friends.php:370
+msgid "Your Scheduled Posts:"
+msgstr ""
+
+#: drafts-for-friends.php:374
+msgid "Pending Review:"
+msgstr ""
+
+#: drafts-for-friends.php:450
+msgid "Unable to verify nonce."
+msgstr ""
+
+#: drafts-for-friends.php:482
+msgid "Share a Draft"
+msgstr ""
+
+#: drafts-for-friends.php:486
+msgid "Choose a draft"
+msgstr ""
+
+#: drafts-for-friends.php:496
+msgid "The post you'll like to share."
+msgstr ""
+
+#: drafts-for-friends.php:499
+msgid "Share if for"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Now you don't need to dd friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Neville Longbottom"
+msgstr ""

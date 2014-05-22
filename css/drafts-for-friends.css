@@ -1,0 +1,72 @@
+#col-left {
+  width: 25%;
+}
+#col-right {
+  width: 75%;
+}
+#draftsforfriends-postid {
+  width: 100%;
+}
+
+form.draftsforfriends-extend {
+  display: none;
+}
+
+form.draftsforfriends-extend,
+form.draftsforfriends-extend input,
+form.draftsforfriends-extend select {
+  font-size: 11px;
+}
+
+.copied {
+  color: green;
+  opacity: 0;
+}
+
+
+@-webkit-keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.copied.show {
+  -webkit-transition: all 1s ease-in-out;
+     -moz-transition: all 1s ease-in-out;
+       -o-transition: all 1s ease-in-out;
+      -ms-transition: all 1s ease-in-out;
+          transition: all 1s ease-in-out;
+
+        -webkit-animation-direction: normal;
+         -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: 1;
+             -webkit-animation-name: blink;
+  -webkit-animation-timing-function: ease-in-out;
+
+        -moz-animation-direction: normal;
+         -moz-animation-duration: 1s;
+  -moz-animation-iteration-count: 1;
+             -moz-animation-name: blink;
+  -moz-animation-timing-function: ease-in-out; 
+}
+
+.zeroclipboard-is-hover {
+  color: #2ea2cc;
+}
